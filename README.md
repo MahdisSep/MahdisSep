@@ -1,9 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mahdis Sepahvand! 👋  
+I’m **[Mahdis Sepahvand]**, a senior undergraduate in Computer Engineering at Shahid Beheshti University, Tehran, Iran (Cumulative GPA: 18.09/20 ≈ 3.77/4; Last-2-years GPA: 19.07/20 ≈ 4.00/4).  
 
-<!--
-**MahdisSep/MahdisSep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I do  
+My passion lies at the intersection of **computer vision, deep learning, medical imaging**, and **generative & diffusion models**. I also explore multimodal models and data science applications.  
 
-Here are some ideas to get you started:
+## 🛠 What I’m good at  
+- **Core areas**: Computer Vision · Deep Learning · Machine Learning · Medical Imaging · Generative & Diffusion Models · Multimodal AI  
+- **Languages & tools**: (to be filled: e.g., Python, PyTorch, TensorFlow, OpenCV, etc.)  
+- **Working style**: I love applying advanced AI methods to real-world imaging problems and building robust ML pipelines.  
+
+## 🚀 Let’s collaborate  
+If you’re interested in imaging-AI, generative modelling, or multimodal systems – drop me a message!  
+📫 [Email](Mahdissep18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahdis-sepahvand-86345425a) · [GitHub](https://github.com/MahdisSep)  
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
