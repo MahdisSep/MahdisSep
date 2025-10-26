@@ -39,82 +39,71 @@ If you’re interested in imaging-AI, generative modelling, or multimodal system
 </details>
 
 <details>
-<summary><strong>Graph Neural Networks</strong></summary>
-
-- [TD3-GNN-Multi-Asset-Trader](https://github.com/shayankebriti/TD3-GNN-Multi-Asset-Trader) — Multi-Asset Trading with TD3 RL Agent and Wavelet-Coherence Graph Neural Networks  
-- [HIV-Inhibitors-Classification](https://github.com/shayankebriti/HIV-Inhibitors-Classification) — Molecular property prediction with GNNs  
-
-</details>
-
-<details>
-<summary><strong>Deep Reinforcement Learning</strong></summary>
-
-- [TD3-GNN-Multi-Asset-Trader](https://github.com/shayankebriti/TD3-GNN-Multi-Asset-Trader)  
-- [DRL-assignments](https://github.com/shayankebriti/DRL-assignments) — FrozenLake, DQN, D3QN, D3QN_PER, C51_D3QN, A2C  
-
-</details>
-
-<details>
-<summary><strong>Time Series & Data Analytics</strong></summary>
-  
-- [TD3-GNN-Multi-Asset-Trader](https://github.com/shayankebriti/TD3-GNN-Multi-Asset-Trader)  
-- [Crypto-BTC-USDT-Analysis](https://github.com/shayankebriti/Crypto-BTC-USDT-Analysis)  
-- [Delta-ir-Crawler](https://github.com/shayankebriti/Delta-ir-Crawler)  
-- [R-assignments](https://github.com/shayankebriti/R-assignments)  
-
-</details>
-
-<details>
-<summary><strong>Natural Language Processing</strong></summary>
-
-- [Persian-Name-Gender-Prediction](https://github.com/shayankebriti/Persian-Name-Gender-Prediction)  
-- [Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)  
-- [Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)  
-
-</details>
-
-<details>
 <summary><strong>Machine Learning & Data Science</strong></summary>
 
-- [ML-assignments](https://github.com/shayankebriti/ML-assignments)  
-- [Kaggle-Titanic-Challenge](https://github.com/shayankebriti/Kaggle-Titanic-Challenge)  
-- [Complementary-School](https://github.com/shayankebriti/Complementary-School)  
-- [ML-archive](https://github.com/shayankebriti/ML-archive)  
+- [Machine-Learning-Assignments](https://github.com/MahdisSep/Machine-Learning-Assignments.git)  
+- [Linux-ReadAhead-ML-Prediction](https://github.com/MahdisSep/Linux-ReadAhead-ML-Prediction.git)  
+- [Diabetes-Classification-and-Statistical-Modeling-R](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R.git)  
+- [Statistics-and-Data-Analysis-R](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R.git)  
+- [KNIME-Public-Health-Data-Engineering](https://github.com/MahdisSep/KNIME-Public-Health-Data-Engineering.git)  
+
+
+</details>
+
+<details>
+<summary><strong>Game Design</strong></summary>
+
+- [Unity-RogueLite-Procedural-Ascension](https://github.com/MahdisSep/Unity-RogueLite-Procedural-Ascension.git)
+- [Unity-3Room-Dungeon-Slayer](https://github.com/MahdisSep/Unity-3Room-Dungeon-Slayer.git)
+- [Pygame-Cognitive-Puzzle-Labyrinth](https://github.com/MahdisSep/Pygame-Cognitive-Puzzle-Labyrinth.git)  
 
 </details>
 
 <details>
 <summary><strong>Classical AI</strong></summary>
 
-- [Lord-of-the-Coins](https://github.com/shayankebriti/Lord-of-the-Coins) — Game AI  
-- [Connect4-AI](https://github.com/shayankebriti/Connect4-AI) — Minimax and search algorithms  
-- [AI-archive](https://github.com/shayankebriti/AI-archive)  
+- [AI-Maze-Pathfinding-BFS-DFS](https://github.com/MahdisSep/AI-Maze-Pathfinding-BFS-DFS.git) 
+- [Genetic-Simulated-Annealing-CNF-Solver](https://github.com/MahdisSep/Genetic-Simulated-Annealing-CNF-Solver.git)
+
+</details>
+
+
+<details>
+<summary><strong>Time Series & Signal Analytics</strong></summary>
+  
+- [DSP-Audio-Image-Signal-Systems-Project](https://github.com/MahdisSep/DSP-Audio-Image-Signal-Systems-Project.git)  
+- [Signals-and-Systems-MATLAB-Projects](https://github.com/MahdisSep/Signals-and-Systems-MATLAB-Projects.git)  
 
 </details>
 
 <details>
 <summary><strong>Software Engineering</strong></summary>
 
-- [Peddit](https://github.com/shayankebriti/Peddit) — Discussion platform in the style of Reddit  
-- [Compiler-Project](https://github.com/shayankebriti/Compiler-Project)  
-- [Minesweeper-Game](https://github.com/shayankebriti/Minesweeper-Game)  
-- [Spotify_API](https://github.com/shayankebriti/Spotify_API)  
-- [Inline-ip-telegram-bot](https://github.com/shayankebriti/Inline-ip-telegram-bot)  
-- [TestCaseGenerator](https://github.com/shayankebriti/TestCaseGenerator)  
-- [ProjectsForFun](https://github.com/shayankebriti/ProjectsForFun)  
+- [Reddit](https://github.com/MahdisSep/Reddit.git) 
+- [Compiler-LLVM-Project](https://github.com/MahdisSep/Compiler-LLVM-Project.git)  
+- [DotNet-MVC-Mobile-Catalog](https://github.com/MahdisSep/DotNet-MVC-Mobile-Catalog.git)  
 
 </details>
 
 <details>
-<summary><strong>Hardware & Embedded Systems</strong></summary>
+<summary><strong>Network & Cyber Security Systems</strong></summary>
 
-- [Flappy-Bird-Assembly](https://github.com/shayankebriti/Flappy-Bird-Assembly)  
-- [Smart-Car](https://github.com/shayankebriti/Smart-Car)  
-- [Embedded-Archive](https://github.com/shayankebriti/Embedded-Archive)  
-- [verilog-archive](https://github.com/shayankebriti/verilog-archive)  
-- [assembly-archive](https://github.com/shayankebriti/assembly-archive)  
+- [Advanced-Network-Programming-Projects](https://github.com/MahdisSep/Advanced-Network-Programming-Projects.git)  
+- [Cybersecurity-Assignments-and-Tools-](https://github.com/MahdisSep/Cybersecurity-Assignments-and-Tools-.git)  
 
 </details>
+
+<details>
+<summary><strong>Hardware & Embedded Systems & OS</strong></summary>
+
+- [Microprocessor-Course](https://github.com/MahdisSep/Microprocessor-Course.git)  
+- [Real-Time-Solar-Tracker-FreeRTOS-Simulink-](https://github.com/MahdisSep/Real-Time-Solar-Tracker-FreeRTOS-Simulink-.git)  
+- [Java-OS-Core-Concepts-Simulations](https://github.com/MahdisSep/Java-OS-Core-Concepts-Simulations.git)  
+
+
+</details>
+
+
 
 <!-- Here are some ideas to get you started:
 
