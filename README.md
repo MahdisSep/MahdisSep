@@ -16,7 +16,7 @@ If you’re interested in imaging-AI, generative modelling, or multimodal system
   <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies" /> 
 </p>
 
-![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical)
+<!-- ![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=compact&theme=radical)
 
 <!-- Here are some ideas to get you started:
