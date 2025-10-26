@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahdis Sepahvand! 👋</h1>
+<h1 align="center">Hi, I'm Mahdis! 👋</h1>
 
 
 ## 👩‍💻 About Me
@@ -15,7 +15,7 @@ If you’re interested in imaging-AI, generative modelling, or multimodal system
 <!-- ![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=donut&theme=radical)](https://github.com/MahdisSep/github-readme-stats)
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,r,c,css,flutter,html,dart,dotnet,mysql,sqlite,matlab,unity,tensorflow,sklearn,pytorch,opencv,rider,vscode,pycharm,idea,arduino,anaconda,windows,ubuntu,linux,git,cmake,latex" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,r,c,css,flutter,html,dart,dotnet,mysql,sqlite,matlab,unity,tensorflow,sklearn,pytorch,opencv,rider,vscode,pycharm,idea,arduino,anaconda,windows,ubuntu,linux,git,latex" />
 </p>
 
 ## 💡 Notable Research & Projects
