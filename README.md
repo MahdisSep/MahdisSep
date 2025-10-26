@@ -10,7 +10,7 @@ If you’re interested in imaging-AI, generative modelling, or multimodal system
 [Email](Mahdissep18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahdis-sepahvand-86345425a) · [GitHub](https://github.com/MahdisSep)  
 
 
-## 📈 GitHub Stats
+## 📈 Languages & Tools
 
 <!-- ![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=donut&theme=radical)](https://github.com/MahdisSep/github-readme-stats)
