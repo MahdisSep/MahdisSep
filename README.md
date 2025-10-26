@@ -13,8 +13,12 @@ If you’re interested in imaging-AI, generative modelling, or multimodal system
 ## 📈 GitHub Stats
 
 <!-- ![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=donut)](https://github.com/MahdisSep/github-readme-stats)
+<p align="center">
+  <a href="https://wakatime.com/@c501c514-51cb-4ab3-bb3c-65767e8be68f">
+    <img src="https://skillicons.dev/icons?i=py,postman,selenium,fastapi,pytorch,sklearn,git,vscode,regex,java,c,cpp,sqlite,mysql,matlab,html,css,django,unity,windows,ubuntu,qt" />
+  </a>
+</p>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
