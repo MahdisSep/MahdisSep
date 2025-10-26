@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About Me
 
-I’m **Mahdis Sepahvand**, an undergraduate (graduating **Jan 2026**) in Computer Engineering at Shahid Beheshti University, Tehran, Iran. My passion lies at the intersection of **computer vision, deep learning, medical imaging**, and **generative & diffusion models**. I also explore **multimodal models** and **data science** applications.  
+I’m **Mahdis Sepahvand**, an undergraduate student (graduating **Jan 2026**) in Computer Engineering at Shahid Beheshti University, Tehran, Iran. My passion lies at the intersection of **computer vision, deep learning, medical imaging**, and **generative & diffusion models**. I also explore **multimodal models** and **data science** applications.  
 
 ## 📫 Let’s collaborate  
 If you’re interested in imaging-AI, generative modelling, or multimodal systems – drop me a message!  
