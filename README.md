@@ -9,6 +9,16 @@ I’m **Mahdis Sepahvand**, an undergraduate (graduating **Jan 2026**) in Comput
 If you’re interested in imaging-AI, generative modelling, or multimodal systems – drop me a message!  
 [Email](Mahdissep18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahdis-sepahvand-86345425a) · [GitHub](https://github.com/MahdisSep)  
 
+
+## 📈 GitHub Stats
+
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies" /> 
+</p>
+
+![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=compact&theme=radical)
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
