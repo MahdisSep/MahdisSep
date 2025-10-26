@@ -15,9 +15,7 @@ If you’re interested in imaging-AI, generative modelling, or multimodal system
 <!-- ![MahdisSep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdisSep&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdisSep&layout=donut&theme=radical)](https://github.com/MahdisSep/github-readme-stats)
 <p align="center">
-  <a href="https://wakatime.com/@c501c514-51cb-4ab3-bb3c-65767e8be68f">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,pytorch,r,c,css,flutter,html,dart,dotnet,mysql,sqlite,matlab,unity,tensorflow,sklearn,pytorch,opencv,rider,vscode,pycharm,idea,arduino,anaconda,windows,ubuntu,linux,git,cmake,latex" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,r,c,css,flutter,html,dart,dotnet,mysql,sqlite,matlab,unity,tensorflow,sklearn,pytorch,opencv,rider,vscode,pycharm,idea,arduino,anaconda,windows,ubuntu,linux,git,cmake,latex" />
 </p>
 
 <!-- Here are some ideas to get you started:
