@@ -7,7 +7,11 @@ I’m **Mahdis Sepahvand**, an undergraduate student (graduating **Jan 2026**) i
 
 ## 📫 Let’s collaborate  
 If you’re interested in imaging-AI, generative modelling, or multimodal systems – drop me a message!  
-[Email](mailto:Mahdissep18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahdis-sepahvand) · [Website](https://MahdisSep.github.io)  
+
+[![Email](https://img.shields.io/badge/Email-Mahdissep18%40gmail.com-red?logo=gmail)](mailto:Mahdissep18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahdisSepahvand-blue?logo=linkedin)](https://www.linkedin.com/in/mahdis-sepahvand)
+[![Website](https://img.shields.io/badge/Website-MahdisSep.github.io-9cf?logo=google-chrome)](https://MahdisSep.github.io)
+ 
 
 
 ## 📈 Languages & Tools
